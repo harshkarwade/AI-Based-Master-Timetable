@@ -1,3 +1,4 @@
+# AI-Based Master Timetable
 AI-Based Master Timetable is an enterprise-grade academic scheduling and management platform designed to automate and optimize the complex task of college timetable generation. Built specifically to handle the intricate, multi-departmental constraints of G.H. Raisoni College of Engineering (GHRCE), the system replaces manual scheduling efforts with a high-performance algorithmic solver.
 
 At its core, the application utilizes a custom-built Constraint Satisfaction Problem (CSP) Solver with Backtracking to generate collision-free timetables in seconds. Beyond initial creation, it features a dynamic Smart Rescheduling Engine that automatically detects teacher absences, evaluates qualified substitutes, and updates the active timetable on-the-fly without disrupting other classes.
