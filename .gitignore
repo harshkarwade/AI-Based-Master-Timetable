@@ -1,0 +1,25 @@
+# Ignored folders
+ghrce-timetable/venv/
+ghrce-timetable/node_modules/
+ghrce-timetable/build/
+ghrce-timetable/.env
+ghrce-timetable/__pycache__/
+ghrce-timetable/*.py[cod]
+
+# Backups
+ghrce-timetable/.git_backup/
+
+# IDE settings
+.vscode/
+ghrce-timetable/.vscode/
+
+# Temp files & logs
+*.log
+ghrce-timetable/*.log
+ghrce-timetable/backend/*.txt
+!ghrce-timetable/backend/requirements.txt
+!ghrce-timetable/backend/runtime.txt
+ghrce-timetable/backend/*.json
+ghrce-timetable/backend/scratch/
+ghrce-timetable/verify_out.txt
+~$*
